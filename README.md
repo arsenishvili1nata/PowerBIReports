@@ -35,7 +35,7 @@ The report is divided into **three pages**, each targeting a different level of 
 - 📊 Histogram: Exam Score distribution
 - 📘 Breakdown by Gender and Motivation Level
 - 📋 Dynamic table with conditional formatting and slicers
--![Main Page](overview.png)
+-![Main Page](screenshots/OverView.png)
 
 
 ### 🔹 2. Influencing Factors (Behavioral + Support)
@@ -44,7 +44,7 @@ The report is divided into **three pages**, each targeting a different level of 
 - 🔥 Matrix heatmap: Sleep Hours vs. Tutoring Sessions
 - 📉 Combo chart: Peer Influence and Physical Activity
 - 🎛️ Slicers: Gender, School Type, Motivation, Internet Access, etc.
--![Factors Page](influencing-factors.png)
+-![Factors Page](screenshots/Influencing Factors.png)
 
 ### 🔹 3. (Coming Soon) Segmentation & What-If Simulation
 - Student clustering by behavior and support
