@@ -44,7 +44,7 @@ The report is divided into **three pages**, each targeting a different level of 
 - 🔥 Matrix heatmap: Sleep Hours vs. Tutoring Sessions
 - 📉 Combo chart: Peer Influence and Physical Activity
 - 🎛️ Slicers: Gender, School Type, Motivation, Internet Access, etc.
--![Factors Page](screenshots/Influencing Factors.png)
+-![Factors Page](screenshots/InfluencingFactors.png)
 
 ### 🔹 3. (Coming Soon) Segmentation & What-If Simulation
 - Student clustering by behavior and support
